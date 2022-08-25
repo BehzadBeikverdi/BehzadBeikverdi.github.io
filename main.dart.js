@@ -35219,7 +35219,7 @@ return A.b4(s,new A.ib(this.t8(b.I(t.w).f.a.a*0.9),p,q,s),s,s,s,s,r,s,s,s)},
 t8(a){return A.iL(new A.hV(new A.Og(a),null),null,null)}}
 A.Og.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=this.a,h=b.b>720,g=h?B.a9:B.aw,f=h?1:0
-f=A.hK(new A.e_(B.xS,A.Tl("assets/android_phone.png",j,500,350),j),f)
+f=A.hK(new A.e_(B.xS,A.Tl("assets/android_phone.png",j,300,300),j),f)
 h=h?1:0
 s=A.bL("ANDROID APP",j,j,A.fR(B.bc,16,B.ai,j),j,j)
 r=A.br(j,15,j)
@@ -61256,7 +61256,7 @@ B.lb=new A.aF(75e3)
 B.Lh=new A.aF(8e5)
 B.xR=new A.aF(-38e3)
 B.aF=new A.aB(0,0,0,0)
-B.xS=new A.aB(0,0,50,0)
+B.xS=new A.aB(0,0,50,30)
 B.xT=new A.aB(0,50,0,0)
 B.xU=new A.aB(16,0,16,0)
 B.xV=new A.aB(4,0,4,0)
