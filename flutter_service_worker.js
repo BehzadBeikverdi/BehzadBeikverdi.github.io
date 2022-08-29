@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "ccea5943fc89699ae8c828dfa1685726",
 "assets/assets/i18n/en-US.json": "bdf783e3bf7cb75b23900a8cbcc47b6d",
-"assets/assets/i18n/fa-IR.json": "a36eca63be69809236ba326026833fb3",
+"assets/assets/i18n/fa-IR.json": "01087034654e6c00203888d97d15396e",
 "assets/assets/pics/android_phone.png": "01bd9b367c24125d46c60675bb88e4ea",
 "assets/assets/pics/brand1.png": "f3a3a0de79048e1f14aac62ec76609b8",
 "assets/assets/pics/brand2.png": "91c6d8820e35e10e39757e0de6ac4345",
@@ -61,10 +61,10 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0a9ad85eac6c9c1e25fb69fb86eaf973",
-"/": "0a9ad85eac6c9c1e25fb69fb86eaf973",
+"index.html": "7444eaa83926d029717a2e435d39a21c",
+"/": "7444eaa83926d029717a2e435d39a21c",
 "loader.css": "f61841a48de5b79316184d950976284a",
-"main.dart.js": "23d6838184d08294f7e6516c6a3ea9fb",
+"main.dart.js": "e495ae66672b882b186a60c458e897c4",
 "manifest.json": "c5d976920c23a42f0596c6944506b5ea",
 "version.json": "52b7eac969929fed51600599f24616fd"
 };
